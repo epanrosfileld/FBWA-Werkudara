@@ -22,6 +22,9 @@
 ### 12. Ketinggian loiter, radius loiter dan ketinggian misi terbang wahana FW wajib disesuaikan dengan NOTAM atau Izin Terbang
 ### 13. Setiap wahana terbang yang akan mengikuti kontes harus memiliki suatu fitur keamanan (failsafe), jika wahana terbang tidak dapat dikendalikan (Out of Control) dan/atau jika koneksi ground control station ke wahana terbang terputus
 ### 14. harus mengaktifkan fitur geofencing, untuk membatasi area penerbangan secara horizontal ±50 meter dan vertikal ±20 meter
+<img width="1303" height="574" alt="image" src="https://github.com/user-attachments/assets/12992917-fd20-4ce6-ad18-358a614bb6da" />
+
+
 ### 15. Setiap pilot disarankan memiliki Sertifikasi Remote Pilot atau sebagai penggantinya diwajibkan mengikuti workshop FASI untuk Peserta KRTI 2026
 ### 16. Setiap peserta yang melakukan penerbangan wahana, harus memiliki Izin Keamanan (Security Clearance) dari instansi terkait (FASI/Lanud TNI-AU setempat)
 ### 17. Menggunakan sistem kendali radio (transmitters dan receiver) dengan frekuensi 2,4 GHz atau 433 Mhz dengan daya maksimum 200mW
