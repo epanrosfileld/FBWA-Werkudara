@@ -4,18 +4,21 @@
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 ### 2. 4 POV Pengambilan Video (GCS, Lokasi GCS, Takeoff & Landing, Dropping paket)
 <img width="748" height="602" alt="image" src="https://github.com/user-attachments/assets/41bd0006-5e90-448f-a095-a595684a2f23" />
+<br>
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 
 ### 3. Tampilan Live Wajib Menggunakan OBS
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 ### 4. tampilan Quick Tab Mission Planner diatur sesuai Panduan
 <img width="755" height="293" alt="Screenshot 2026-05-27 143943" src="https://github.com/user-attachments/assets/db7af7d6-de28-44e9-adc7-3b1ea89d61f2" />
+<br>
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 
 ### 5. Memiliki sistem dropping paket, sistem 
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 ### 6. Zona Pemataan sepanjang 4,5 KM
 <img width="612" height="489" alt="image" src="https://github.com/user-attachments/assets/7ce27634-c2c3-48a7-be21-4850eecb5944" />
+<br>
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -35,6 +38,7 @@
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 ### 14. harus mengaktifkan fitur geofencing, untuk membatasi area penerbangan secara horizontal ±50 meter dan vertikal ±20 meter
 <img width="1303" height="574" alt="image" src="https://github.com/user-attachments/assets/12992917-fd20-4ce6-ad18-358a614bb6da" />
+<br>
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 
 
