@@ -50,9 +50,9 @@
 <br> -------------------------------------------------------------------------------------------------------------------------------------------------
 ### 18. Video transmitter dapat menggunakan frekuensi S-Band (2,4 GHz dan 5,8 MHz) dengan daya maksimum 1 W
 <br> -------------------------------------------------------------------------------------------------------------------------------------------------
-### 19. Memiliki sistem kendali otomatis (autonomous system), yang dapat digunakan untuk melaksanakan misi di luar take-off dan landing, namun diperbolehkan jika wahana terbang dapat melakukan take-off dan landing secara autonomous
+### 19. Memiliki sistem kendali otomatis (autonomous system), yang dapat digunakan untuk melaksanakan misi di luar take-off dan landing, namun diperbolehkan jika wahana terbang dapat melakukan take-off dan landing secara autonomous  $\color{#32CD32}{\huge{V}}$
 <br> -------------------------------------------------------------------------------------------------------------------------------------------------
-### 20. Memiliki sistem kendali otomatis (autonomous system), yang dapat digunakan untuk melaksanakan misi di luar take-off dan landing, namun diperbolehkan jika wahana terbang dapat melakukan take-off dan landing secara autonomous
+### 20. Memiliki sistem kendali otomatis (autonomous system), yang dapat digunakan untuk melaksanakan misi di luar take-off dan landing, namun diperbolehkan jika wahana terbang dapat melakukan take-off dan landing secara autonomous  $\color{#32CD32}{\huge{V}}$
 <br> -------------------------------------------------------------------------------------------------------------------------------------------------
 ### 21. Wahana melakukan pengambilan data video pada area misi secara autonomous serta mengirimkan dan menayangkan secara langsung video yang diperoleh tersebut pada ground control station (live video), mengirimkan data terbang serta menayangkannya secara langsung pada GCS
 <br> -------------------------------------------------------------------------------------------------------------------------------------------------
