@@ -36,7 +36,7 @@
 <br> -------------------------------------------------------------------------------------------------------------------------------------
 ### 13. Setiap wahana terbang yang akan mengikuti kontes harus memiliki suatu fitur keamanan (failsafe), jika wahana terbang tidak dapat dikendalikan (Out of Control) dan/atau jika koneksi ground control station ke wahana terbang terputus  $\color{#32CD32}{\huge{V}}$
 <br> -------------------------------------------------------------------------------------------------------------------------------------
-### 14. harus mengaktifkan fitur geofencing, untuk membatasi area penerbangan secara horizontal ±50 meter dan vertikal ±20 meter
+### 14. harus mengaktifkan fitur geofencing, untuk membatasi area penerbangan secara horizontal ±50 meter dan vertikal ±20 meter  $\color{#32CD32}{\huge{V}}$
 <img width="1303" height="574" alt="image" src="https://github.com/user-attachments/assets/12992917-fd20-4ce6-ad18-358a614bb6da" />
 <br>
 <br> -------------------------------------------------------------------------------------------------------------------------------------
